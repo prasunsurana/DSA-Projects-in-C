@@ -1,0 +1,14 @@
+eat sleep
+eat exercise
+exercise stretch
+exercise shower
+exercise proteinshake
+shower cook
+proteinshake cook
+cook eat
+cook music
+music clean
+music admin
+clean party
+clean study
+
