@@ -1,2 +1,2 @@
 # Prasun Surana
-GitHub repository for personal projects
+GitHub repository for personal projects in C and Python
